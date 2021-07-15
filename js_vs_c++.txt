@@ -1,0 +1,23 @@
+C++ Vs JavaScript
+1.Variable Declaration,type casting
+2.object initialization
+3.Object elements access(using dot,using key value) 
+4.Print object(operator overloading)
+5.Equality check(Strict Equal,less equal)
+6.Falsy,truthy in js
+7.Using let or not using let while declaring variable
+8.for in loop
+9.for of loop
+10.Factory function
+11.Object properties can be changed at the runtime(adding and deleting)
+12.input,output
+13.not so suitable for competitive programming
+14.full stack,back end
+15.interpreter, compiler
+16.faster
+17.can be integrated with html,css
+18.Array(in js there can be different types of variable in a single array)
+19.semicolon
+20.sometimes it's difficult to find out the mistake(not error)
+
+Syntax of JavaScript looks like a combination of c++ and python.
